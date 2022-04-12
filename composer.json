@@ -1,5 +1,5 @@
 {
-  "name": "ryanwinchester/netsuite-php",
+  "name": "silvertipsoftware/netsuite-php",
   "description": "NetSuite PHP API wrapper",
   "keywords": [ "netsuite", "api", "php" ],
   "type": "library",
@@ -8,10 +8,14 @@
     {
       "name": "Ryan Winchester (fungku)",
       "email": "fungku@gmail.com"
+    },
+    {
+      "name": "Silvertip Software Inc",
+      "email": "info@silvertipsoftware.com"
     }
   ],
   "require": {
-    "php": ">=7.1",
+    "php": ">=5.6",
     "ext-soap": "*",
     "ext-SimpleXML": "*",
     "ext-openssl": "*",
